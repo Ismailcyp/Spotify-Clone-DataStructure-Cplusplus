@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1766670185 source:e:\university\24-101139\year 2\spotify project .h\main.cpp
+	<iostream>
+	"Song.h"
+	"Library.h"
+	"Playlist.h"
+	"Users.h"
+	"RecentlyPlayed.h"
+	"SearchHistory.h"
+	"BST.h"
+
+1766670066 e:\university\24-101139\year 2\spotify project .h\include\song.h
+	<string>
+	<iostream>
+	<fstream>
+	<cctype>
+
+1766410678 e:\university\24-101139\year 2\spotify project .h\include\library.h
+	"Song.h"
+
+1766410678 e:\university\24-101139\year 2\spotify project .h\include\playlist.h
+	"Song.h"
+
+1766410679 e:\university\24-101139\year 2\spotify project .h\include\users.h
+	<string>
+	<fstream>
+
+1766410679 e:\university\24-101139\year 2\spotify project .h\include\recentlyplayed.h
+	"Song.h"
+
+1766495999 e:\university\24-101139\year 2\spotify project .h\include\searchhistory.h
+	<string>
+	<iostream>
+
+1766670169 e:\university\24-101139\year 2\spotify project .h\include\bst.h
+	"Song.h"
+	"Playlist.h"
+
+1766753294 source:e:\university\24-101139\year 2\spotify project .h\src\bst.cpp
+	"BST.h"
+
+1766610827 source:e:\university\24-101139\year 2\spotify project .h\src\library.cpp
+	"Library.h"
+	<fstream>
+	<iostream>
+
+1766762883 source:e:\university\24-101139\year 2\spotify project .h\src\playlist.cpp
+	"Playlist.h"
+	<algorithm>
+	<iostream>
+	<fstream>
+
+1766501390 source:e:\university\24-101139\year 2\spotify project .h\src\recentlyplayed.cpp
+	"RecentlyPlayed.h"
+
+1766749479 source:e:\university\24-101139\year 2\spotify project .h\src\searchhistory.cpp
+	"SearchHistory.h"
+
+1766609569 source:e:\university\24-101139\year 2\spotify project .h\src\song.cpp
+	"Song.h"
+
+1766592125 source:e:\university\24-101139\year 2\spotify project .h\src\users.cpp
+	"Users.h"
+
+1766937226 source:c:\users\ismai\onedrive\desktop\head&tail_final_spotify_project\src\bst.cpp
+	"BST.h"
+
+1766670170 c:\users\ismai\onedrive\desktop\head&tail_final_spotify_project\include\bst.h
+	"Song.h"
+	"Playlist.h"
+
+1766670068 c:\users\ismai\onedrive\desktop\head&tail_final_spotify_project\include\song.h
+	<string>
+	<iostream>
+	<fstream>
+	<cctype>
+
+1766410680 c:\users\ismai\onedrive\desktop\head&tail_final_spotify_project\include\playlist.h
+	"Song.h"
+
+1766937806 source:c:\users\ismai\onedrive\desktop\head&tail_final_spotify_project\src\playlist.cpp
+	"Playlist.h"
+	<algorithm>
+	<iostream>
+	<fstream>
+
+1766936932 source:c:\users\ismai\onedrive\desktop\head&tail_final_spotify_project\src\recentlyplayed.cpp
+	"RecentlyPlayed.h"
+
+1766410680 c:\users\ismai\onedrive\desktop\head&tail_final_spotify_project\include\recentlyplayed.h
+	"Song.h"
+
+1766609570 source:c:\users\ismai\onedrive\desktop\head&tail_final_spotify_project\src\song.cpp
+	"Song.h"
+
+1766943502 source:c:\users\ismai\onedrive\desktop\head&tail_final_spotify_project\src\library.cpp
+	"Library.h"
+	<fstream>
+	<iostream>
+
+1766410680 c:\users\ismai\onedrive\desktop\head&tail_final_spotify_project\include\library.h
+	"Song.h"
+
+1766938148 source:c:\users\ismai\onedrive\desktop\head&tail_final_spotify_project\src\searchhistory.cpp
+	"SearchHistory.h"
+
+1766496000 c:\users\ismai\onedrive\desktop\head&tail_final_spotify_project\include\searchhistory.h
+	<string>
+	<iostream>
+
+1766939376 source:c:\users\ismai\onedrive\desktop\head&tail_final_spotify_project\src\users.cpp
+	"Users.h"
+
+1766410680 c:\users\ismai\onedrive\desktop\head&tail_final_spotify_project\include\users.h
+	<string>
+	<fstream>
+
